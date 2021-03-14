@@ -1,1 +1,1 @@
-# Daily_practice_prooblems
+# Daily_practice_problems
